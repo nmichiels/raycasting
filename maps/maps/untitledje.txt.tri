@@ -1,0 +1,16 @@
+﻿0
+Key_needed? 1 allow_trigger_more_then_once? 0 triggered_once_already? 1
+required_leftAngle? 360 required_rightAngle? 360
+-1
+
+1
+key? 0 allow_trigger_more_then_once? 1 triggered_once_already? 0
+required_leftAngle? 0 required_rightAngle? 360
+1 AddText
+Opgepast! Al de mensen die deze graftomben ooit betreed hebben zijn nooit teruggekomen
+Bent u zeker dat u deze heilige plaats wil betreden?
+~ 
+-1
+
+
+-1
